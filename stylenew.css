@@ -1,0 +1,26 @@
+.experience{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    margin-bottom: 5%;
+    box-shadow:10px 10px 40px gray;
+   
+}
+.brown{color: coral; }
+.Down{background-image: url(Images/dream-bg.png);
+    border-left: solid;
+background-repeat: no-repeat;
+background-position: right;}
+
+#web-dev-experience{
+border-left: 7px solid;
+border-image:linear-gradient(blue,cyan);    
+border-image-slice: 1 ;}
+#Full-stack-experience{
+    border-left: 7px solid;
+    border-image:linear-gradient(blue,purple);    
+    border-image-slice: 1 ;}
+    footer p {text-align: center;}
+
+
