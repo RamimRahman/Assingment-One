@@ -1,1 +1,20 @@
-h1{color: red;}
+body{font-family: 'Righteous', cursive;
+margin: 0;}
+
+h1{font-size: 50px;}
+.red{color: red;}
+.brown{color: brown;}
+section{display: flex;}
+.half-width{width: 50%;
+            padding-left: 15%;}
+.half-width img {width: 80%;}
+.Link{font-size: 25px;
+    font-weight: 400;
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange,red );
+    padding: 10px 20px;
+    border-radius: 25px;}
+    .topbanner{background-image: url(Images/top-banner.png);
+    background-repeat: no-repeat;
+    }
